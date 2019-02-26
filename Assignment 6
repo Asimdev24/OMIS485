@@ -1,3 +1,5 @@
+// Assignment 6-1
+
 "use strict";
 var $ = function(id) { return document.getElementById(id); };
 
