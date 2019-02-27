@@ -1,4 +1,4 @@
-// Assignment 6-1
+// Assignment 6-1 faqs.js file
 
 "use strict";
 var $ = function(id) { return document.getElementById(id); };
@@ -40,3 +40,6 @@ window.onload = function() {
     // set focus on first <a> tag
     linkElements[0].focus();       
 };
+
+
+
